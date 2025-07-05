@@ -1,2 +1,4 @@
 # Projeto_Imobili-ria_BD1
-Esse repositório foi criado para armazenar a integração em python com nosso banco de dados no mysql
+Biblioteca utilizada: mysql.connector
+para baixar a biblioteca utilize:  pip install mysql-connector-python
+
