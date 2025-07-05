@@ -1,4 +1,4 @@
 # Projeto_Imobili-ria_BD1
-#Biblioteca utilizada: mysql.connector
-#para baixar a biblioteca utilize:  pip install mysql-connector-python
+\n Biblioteca utilizada: mysql.connector
+\n para baixar a biblioteca utilize:  pip install mysql-connector-python
 
